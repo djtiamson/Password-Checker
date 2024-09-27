@@ -1,5 +1,3 @@
-//Dannah Janelle M. Tiamson | Exercise No. 3
-
 package package3;
 import java.util.regex.*;
 import java.util.Scanner;
